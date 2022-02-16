@@ -426,7 +426,7 @@ function App() {
                   <br />
                   <button>SUBMIT</button>
 
-                  <div class="row">{showResults ? <Results /> : null}</div>
+                
                 </div>
               </form>
             </div>
