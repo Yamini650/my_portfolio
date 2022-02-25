@@ -36,12 +36,11 @@ function App() {
           <div class="row">
             <div class="col-md-12 col-lg-6">
               <div class="screenWords">
-                <h1>Hello, I'm Irene.</h1>
+                <h1>Hello, I'm Yamini.</h1>
                 <p>
                   A full-stack developer. Specializing in building exceptional
                   trending mobile applications and websites. Feel free to take a
-                  look at my latest projects. Remotely available UTC−1 to UTC+8.
-                  project@irenemmassy.com Tel:+255 065 535 2744
+                  look at my latest projects.
                 </p>
                 <div class="twoMainButton">
                   <div class="buttonMain">
@@ -57,7 +56,7 @@ function App() {
             </div>
             <div class="col-md-12 col-lg-6">
               <div class="screenImage">
-                <img src="./images/main2.png" alt="irene blog" />
+                <img src="./images/main2.png" alt="my_portfolio" />
               </div>
             </div>
           </div>
@@ -433,97 +432,6 @@ function App() {
           </div>
         </div>
       </div>
-
-    <div class="container" id="blogs">
-        <div class="article">
-          <h2>Recent Work</h2>
-          <hr />
-          <div class="rows">
-            <div class="shop col-lg-3 col-md-4 col-sm-6">
-              <div class="shopBack">
-                <img src="./assets/images/recent1.png" alt="recent" />
-                <div class="shoplebal">
-                  <a href="#">Read More</a>
-                </div>
-              </div>
-              <div class="shoptext">
-                <p>Sell And Buy App</p>
-                <h3>
-                  Another app ever from zpnet company. Lorem Ipsum has been the
-                  industry's
-                </h3>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container" id="blogs">
-      <div class="article">
-        <h2>Recent Work</h2>
-        <hr />
-        <div class="rows">
-          <div class="shop col-lg-3 col-md-4 col-sm-6">
-            <div class="shopBack">
-              <img src="./assets/images/recent1.png" alt="recent" />
-              <div class="shoplebal">
-                <a href="#">Read More</a>
-              </div>
-            </div>
-            <div class="shoptext">
-              <p>Sell And Buy App</p>
-              <h3>
-                Another app ever from zpnet company. Lorem Ipsum has been the
-                industry's
-              </h3>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <footer>
-      <div class="container">
-        <div class="footerContainer">
-          <div class="footerLogo">
-            <img src="./assets/images/gifs/logo2.png" alt="Logo" />
-          </div>
-          <div class="footerNav">
-            <p><a href="#about">About me</a></p>
-            <p><a href="#services">services</a></p>
-            <p><a href="#">blogs</a></p>
-            <p><a href="./template/portifolio.html">Portifolio</a></p>
-            <p><a href="#contact">contact me</a></p>
-          </div>
-          <div class="footerMedias">
-            <div class="footerMedia">
-              <a href="https://www.linkedin.com/in/laura-irene-paul"
-                ><i class="fab fa-linkedin-in"></i
-              ></a>
-            </div>
-            <div class="footerMedia">
-              <a href="https://www.facebook.com/irene.mmassy.1466"
-                ><i class="fab fa-facebook-f"></i
-              ></a>
-            </div>
-            <div class="footerMedia">
-              <a href="https://www.instagram.com/minaheryy/"
-                ><i class="fab fa-instagram"></i
-              ></a>
-            </div>
-            <div class="footerMedia">
-              <a href="https://www.behance.net/laummassy01ce"
-                ><i class="fab fa-behance"></i
-              ></a>
-            </div>
-            <div class="footerMedia">
-              <a href="https://github.com/irenemmassy">
-                <i class="fab fa-github-alt"></i
-              ></a>
-            </div>
-          </div>
-          <span>Copyright ©2020 All rights reserved </span>
-        </div>
-      </div>
-    </footer>
 
     </>
   );
